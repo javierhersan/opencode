@@ -4,6 +4,13 @@ OpenCode web is an open source and local web editor.
 
 ![alt text](docs/editor-4.png)
 
+Run the project by executing the following commands:
+
+```console
+$ npm install
+$ npm run dev
+```
+
 Download also [opencode-back](https://github.com/javierhersan/opencode-back) and run it locally for full functionality (login and signup).
 
 ## Demo
